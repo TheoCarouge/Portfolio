@@ -630,10 +630,10 @@ body.dark-theme {
     bottom: -1rem;
 }
 
-.swiper-pagination-bullets {
+/*.swiper-pagination-bullets {
     background-color: var(--first-color-light);
     opacity: 1;
-}
+}*/
 
 .swiper-pagination-bullets-active {
     background-color: var(--first-color);
