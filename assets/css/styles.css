@@ -196,7 +196,7 @@ body.dark-theme {
                 hsl(var(--hue), 90%, 30%));
 }
 
-.profile_img {
+.profile__img {
     width: 150px;
 }
 
